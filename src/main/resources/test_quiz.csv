@@ -1,0 +1,4 @@
+Which of the following is not a Java features?,3,2,4,Dynamic,Architecture Neutral,Use of pointers,Object-oriented,java,1
+_____ is used to find and fix bugs in the Java programs.,4,2,4,JVM,JRE,JDK,JDB,java,1
+Which of the following is a valid long literal?,2,2,2,ABH8097,0xnf029L,,,java,1
+Which of the following for loop declaration is not valid?,1,4,4,for ( int i = 99; i >= 0; i / 9 ),for ( int i = 7; i <= 77; i += 7 ),for ( int i = 20; i >= 2; - -i ),for ( int i = 2; i <= 20; i = 2* i ),java,2
