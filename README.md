@@ -54,9 +54,9 @@ In short, the functionalities are :
 ![2](/images/quizly2.jpg?raw=true "2")
 ![3](/images/quizly3.jpg?raw=true "3")
 ![4](/images/quizly4.jpg?raw=true "4")
-![5](/images/student1.jpg?raw=true "5")
-![6](/images/student2.jpg?raw=true "6")
-![7](/images/student3.jpg?raw=true "7")
-![8](/images/student4.jpg?raw=true "8")
+![5](/images/student1.PNG?raw=true "5")
+![6](/images/student2.PNG?raw=true "6")
+![7](/images/student3.PNG?raw=true "7")
+![8](/images/student4.PNG?raw=true "8")
 
 <hr>
