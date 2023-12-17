@@ -2,9 +2,9 @@
 
 <hr>
 
-![Java - JDK 17.0.7 LTS](https://img.shields.io/static/v1?label=Java&message=JDK+17.0.7+LTS&color=%23007396)
-![Test Driven Development - true](https://img.shields.io/badge/Test_Driven_Development-true-2ea44f)
-![JUnit Jupiter version](https://img.shields.io/maven-central/v/org.junit.jupiter/junit-jupiter/5.9.1.svg?color=25a162&label=Jupiter)
+[![Java - JDK 17.0.7 LTS](https://img.shields.io/static/v1?label=Java&message=JDK+17.0.7+LTS&color=%23007396)]()
+[![Test Driven Development - true](https://img.shields.io/badge/Test_Driven_Development-true-2ea44f)]()
+[![JUnit Jupiter version](https://img.shields.io/maven-central/v/org.junit.jupiter/junit-jupiter/5.9.1.svg?color=25a162&label=Jupiter)]()
 
 
 ## Overview:
